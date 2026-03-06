@@ -1,0 +1,10 @@
+app-root {
+  display: block !important;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  height: 100%;
+}
